@@ -1,2 +1,3 @@
-# Luck-Of-The-Poorboy
-This country you gotta make the money first. Then you got the money, you get the power. 
+Get a IDE or Code Editor
+
+If you're using VS Code, you must install playsound in python first in order to play the audio
